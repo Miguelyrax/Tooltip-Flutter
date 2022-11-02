@@ -1,16 +1,28 @@
-# tooltip
+# Tooltip
 
-A new Flutter project.
+Aprende a crear un tooltip sin ningun paquete externo de una manera sencilla.
 
-## Getting Started
+## Instalación
 
-This project is a starting point for a Flutter application.
+Ejecutar el siguiente comando en la raiz del proyecto para instalar las dependencias
+```
+flutter pub get
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Levantar la aplicacion
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Seleccione un dispositivo movil y levante la aplicación
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+flutter run
+```
+
+## Imagenes de la aplicacion 
+<p float="left">
+  <img src="assets/3.png" width="180"> 
+  <img src="assets/9.png" width="180"> 
+</p>
+
+
+
+
